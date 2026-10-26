@@ -1,1 +1,1 @@
-# AD-Automation-Powershell
+# Sentinel
